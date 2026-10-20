@@ -1,0 +1,87 @@
+{
+  "result": "PASS",
+  "duration_seconds": 315.229667,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "chapters": 12,
+  "checks": [
+    {
+      "scene": 1,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.035578231292519
+    },
+    {
+      "scene": 2,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.014807256235827
+    },
+    {
+      "scene": 3,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.0359410430838984
+    },
+    {
+      "scene": 4,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.021247165532877
+    },
+    {
+      "scene": 5,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.040748299319727
+    },
+    {
+      "scene": 6,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.031315192743762
+    },
+    {
+      "scene": 7,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.020929705215419
+    },
+    {
+      "scene": 8,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.02333333333333
+    },
+    {
+      "scene": 9,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.004104308390026
+    },
+    {
+      "scene": 10,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.032312925170068
+    },
+    {
+      "scene": 11,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.013265306122449
+    },
+    {
+      "scene": 12,
+      "blank_start_ratio": 0.0,
+      "unstarted_region_leakage": 0.0,
+      "end_hold_seconds": 4.034897959183674
+    }
+  ],
+  "full_decode": "PASS"
+}
