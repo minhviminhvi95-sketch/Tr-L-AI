@@ -1,0 +1,103 @@
+{
+  "result": "PASS",
+  "duration_seconds": 400.021667,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "chapters": 17,
+  "video": "h264",
+  "audio": "aac",
+  "source": "IMG_8179.MP4",
+  "source_duration_seconds": 265.9,
+  "privacy": "Reconstructed interfaces only; no original frames or personal source data included",
+  "full_decode": "PASS",
+  "scenes": [
+    {
+      "scene": 1,
+      "hold_seconds": 4.531473922902492,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 2,
+      "hold_seconds": 4.515328798185941,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 3,
+      "hold_seconds": 4.540816326530612,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 4,
+      "hold_seconds": 4.513151927437644,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 5,
+      "hold_seconds": 4.541405895691611,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 6,
+      "hold_seconds": 4.529523809523809,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 7,
+      "hold_seconds": 4.503809523809526,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 8,
+      "hold_seconds": 4.512879818594104,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 9,
+      "hold_seconds": 4.501179138321998,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 10,
+      "hold_seconds": 4.522131519274378,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 11,
+      "hold_seconds": 4.512879818594104,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 12,
+      "hold_seconds": 4.530068027210884,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 13,
+      "hold_seconds": 4.528117913832197,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 14,
+      "hold_seconds": 4.515873015873016,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 15,
+      "hold_seconds": 4.514965986394557,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 16,
+      "hold_seconds": 4.512426303854877,
+      "first_frame_nonbackground": 0.0
+    },
+    {
+      "scene": 17,
+      "hold_seconds": 4.507573696145123,
+      "first_frame_nonbackground": 0.0
+    }
+  ]
+}
