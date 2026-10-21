@@ -1,5 +1,7 @@
 # Cấp đổi chứng nhận đăng ký xe — video vẽ tay theo bản quay
 
+> **Đã có [bản sửa dùng trực tiếp ảnh gốc tại đây](../cap-doi-dang-ky-xe-anh-goc/).** Thư mục hiện tại lưu bản giao diện minh họa cũ; dùng liên kết mới để xem bản theo đúng hình ảnh trong video nguồn.
+
 **[▶ Xem video](./cap-doi-dang-ky-xe-ve-tay.mp4)** · **[⬇ Tải MP4 trực tiếp](https://github.com/minhviminhvi95-sketch/Tr-L-AI/raw/refs/heads/main/videos/cap-doi-dang-ky-xe-ve-tay/cap-doi-dang-ky-xe-ve-tay.mp4)**
 
 ![Ảnh xem trước](./anh-xem-truoc.jpg)
