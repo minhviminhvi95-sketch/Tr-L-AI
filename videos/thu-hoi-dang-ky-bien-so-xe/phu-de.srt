@@ -1,0 +1,451 @@
+1
+00:00:00,800 --> 00:00:05,170
+Video hướng dẫn kê khai dịch vụ công thu hồi chứng nhận đăng ký xe, biển
+
+2
+00:00:05,195 --> 00:00:09,381
+số xe, theo trường hợp chuyển quyền sở hữu xe máy trong bản quay gốc.
+
+3
+00:00:10,056 --> 00:00:14,186
+Hình ảnh được giữ trọn khung, không cắt xén hay phóng vùng thao tác.
+
+4
+00:00:14,211 --> 00:00:17,607
+Thông tin cá nhân và thông tin nhận dạng xe đã được che.
+
+5
+00:00:18,282 --> 00:00:22,713
+Các bước trên cổng được giải thích bằng nét vẽ, phụ đề và giọng đọc. Cuối
+
+6
+00:00:22,738 --> 00:00:26,620
+video có hướng dẫn hoàn tất hồ sơ và nhận kết quả theo quy định.
+
+7
+00:00:33,633 --> 00:00:38,124
+Chuẩn bị tài khoản định danh điện tử mức độ hai, giấy tờ của chủ xe, chứng
+
+8
+00:00:38,149 --> 00:00:42,517
+nhận đăng ký xe, biển số và bản sao chứng từ chuyển quyền sở hữu hợp lệ.
+
+9
+00:00:43,192 --> 00:00:46,905
+Hồ sơ có hai bản chà số máy, số khung. Nếu thực hiện trên môi
+
+10
+00:00:46,930 --> 00:00:50,581
+trường điện tử, cấp chứng nhận thu hồi điện tử và cơ quan đã
+
+11
+00:00:50,606 --> 00:00:54,380
+có dữ liệu số hóa đáp ứng quy định, thì không yêu cầu bản chà.
+
+12
+00:00:55,055 --> 00:00:58,891
+Trong thời hạn ba mươi ngày kể từ ngày làm giấy tờ chuyển quyền
+
+13
+00:00:58,916 --> 00:01:02,078
+sở hữu, chủ xe đứng tên đăng ký phải làm thủ tục thu
+
+14
+00:01:02,103 --> 00:01:05,817
+hồi. Kê khai trung thực và giữ giấy tờ để nộp theo hướng dẫn.
+
+15
+00:01:12,800 --> 00:01:17,048
+Truy cập cổng dịch vụ công chính thức và đăng nhập bằng tài khoản định
+
+16
+00:01:17,073 --> 00:01:21,199
+danh điện tử của mình. Bản quay bắt đầu khi người dùng đã đăng nhập.
+
+17
+00:01:21,874 --> 00:01:26,245
+Tìm dịch vụ thu hồi chứng nhận đăng ký xe, biển số xe. Trong nguồn, dịch
+
+18
+00:01:26,270 --> 00:01:30,031
+vụ được thực hiện tại Công an cấp xã được phân cấp đăng ký xe.
+
+19
+00:01:30,706 --> 00:01:35,559
+Kiểm tra tên thủ tục, cơ quan và mức độ cung cấp dịch vụ rồi chọn Nộp hồ sơ. Với
+
+20
+00:01:35,584 --> 00:01:40,742
+chuyển quyền sở hữu trong ví dụ này, không hiểu đây là mọi bước đều hoàn tất tại nhà.
+
+21
+00:01:47,758 --> 00:01:52,643
+Ở phần chọn trường hợp hồ sơ, chọn đúng loại xe. Ví dụ trong nguồn là xe máy.
+
+22
+00:01:53,318 --> 00:01:57,566
+Chọn tỉnh, thành phố và điểm tiếp nhận có thẩm quyền phù hợp với hồ sơ
+
+23
+00:01:57,591 --> 00:02:01,960
+của bạn. Địa phương hiển thị trong video chỉ là lựa chọn của người quay.
+
+24
+00:02:02,635 --> 00:02:07,006
+Kiểm tra trường hợp giải quyết, sau đó chọn Đồng ý và tiếp tục. Thời hạn
+
+25
+00:02:07,031 --> 00:02:10,852
+hai ngày làm việc chỉ tính từ khi cơ quan nhận đủ hồ sơ hợp lệ.
+
+26
+00:02:17,842 --> 00:02:21,278
+Nếu tự làm thủ tục cho xe đứng tên mình, chọn
+
+27
+00:02:21,303 --> 00:02:24,817
+Người nộp hồ sơ là chủ xe, như trong bản quay.
+
+28
+00:02:25,492 --> 00:02:29,679
+Nếu khai hộ hoặc được ủy quyền, chọn vai trò phù hợp và cung cấp giấy
+
+29
+00:02:29,704 --> 00:02:33,891
+tờ theo quy định. Không chọn chủ xe chỉ để bỏ qua thông tin ủy quyền.
+
+30
+00:02:34,566 --> 00:02:38,873
+Kiểm tra lại loại xe và các ô có dấu sao trước khi tra cứu. Các giá trị
+
+31
+00:02:38,898 --> 00:02:43,450
+định danh trong bản dựng đã được che, bạn nhập dữ liệu thật của hồ sơ mình.
+
+32
+00:02:50,425 --> 00:02:54,613
+Nhập biển số đúng theo giấy đăng ký hoặc dữ liệu được cơ quan quản lý
+
+33
+00:02:54,638 --> 00:02:58,582
+ghi nhận. Chọn đúng màu biển, ví dụ nền trắng, chữ và số màu đen.
+
+34
+00:02:59,257 --> 00:03:03,323
+Điền số khung và số máy theo yêu cầu của hệ thống. Phân biệt chữ và
+
+35
+00:03:03,348 --> 00:03:07,353
+số dễ nhầm, không tự suy đoán khi thiếu giấy tờ hoặc không đọc rõ.
+
+36
+00:03:08,028 --> 00:03:12,822
+Bản quay có lúc để trống một ô nhưng thông tin xe xuất hiện ở phần kiểm tra sau
+
+37
+00:03:12,847 --> 00:03:17,518
+đó. Bạn vẫn phải kiểm tra đầy đủ dữ liệu hệ thống trả về trước khi gửi hồ sơ.
+
+38
+00:03:24,508 --> 00:03:27,967
+Ở ô Lý do thu hồi, chọn đúng trường hợp thực tế. Bản quay
+
+39
+00:03:27,992 --> 00:03:31,635
+chọn Chuyển quyền sở hữu, không phải mất xe hoặc xe hư hỏng.
+
+40
+00:03:32,310 --> 00:03:36,559
+Nhập mã kiểm tra đang hiển thị trên màn hình của bạn rồi chọn Tra cứu.
+
+41
+00:03:36,584 --> 00:03:40,527
+Mã trong video chỉ là ví dụ đã ghi lại, không dùng cho hồ sơ mới.
+
+42
+00:03:41,202 --> 00:03:45,692
+Đợi hệ thống lấy thông tin rồi đối chiếu chủ xe và chiếc xe. Nếu không tra
+
+43
+00:03:45,717 --> 00:03:50,268
+cứu được, kiểm tra dữ liệu nhập và liên hệ nơi tiếp nhận để được hướng dẫn.
+
+44
+00:03:57,258 --> 00:04:00,796
+Kiểm tra mã định danh, loại giấy tờ và thông tin cấp giấy
+
+45
+00:04:00,821 --> 00:04:04,233
+tờ của chủ xe. Dữ liệu tự điền cũng cần được đối chiếu.
+
+46
+00:04:04,908 --> 00:04:10,491
+Đọc lại họ tên, ngày tháng năm sinh và quốc tịch. Nếu dữ liệu sai, thực hiện điều chỉnh theo
+
+47
+00:04:10,516 --> 00:04:15,550
+hướng dẫn của cổng hoặc cơ quan tiếp nhận, không xác nhận một hồ sơ biết rõ là sai.
+
+48
+00:04:16,225 --> 00:04:20,473
+Kiểm tra địa chỉ thường trú, tạm trú và nơi ở hiện tại theo các trường
+
+49
+00:04:20,498 --> 00:04:24,624
+tương ứng. Thông tin riêng trong những ô này đã được che ở bản dựng.
+
+50
+00:04:31,633 --> 00:04:35,517
+Nhập số điện thoại đang sử dụng để nhận thông báo. Điền thư điện
+
+51
+00:04:35,542 --> 00:04:39,548
+tử nếu hệ thống yêu cầu hoặc bạn muốn nhận thông tin qua kênh này.
+
+52
+00:04:40,223 --> 00:04:43,986
+Nếu có người được ủy quyền làm thủ tục, khai đúng họ tên, định
+
+53
+00:04:44,011 --> 00:04:47,774
+danh và giấy tờ của người đó, kèm giấy ủy quyền theo quy định.
+
+54
+00:04:48,449 --> 00:04:52,635
+Nếu tự làm và không có ủy quyền, không tự tạo thông tin người được ủy
+
+55
+00:04:52,660 --> 00:04:57,030
+quyền. Trước khi chuyển phần tiếp theo, kiểm tra lại số liên hệ đã nhập.
+
+56
+00:05:04,008 --> 00:05:07,892
+Với lý do chuyển quyền sở hữu, khai họ tên và địa chỉ chủ xe mới
+
+57
+00:05:07,917 --> 00:05:11,923
+theo chứng từ hợp lệ. Không lấy dữ liệu ví dụ trong video để điền.
+
+58
+00:05:12,598 --> 00:05:16,361
+Điền mã định danh đúng từng ký tự. Kiểm tra sự thống nhất giữa
+
+59
+00:05:16,386 --> 00:05:20,149
+người nhận chuyển quyền trên giấy tờ và người được khai ở đây.
+
+60
+00:05:20,824 --> 00:05:25,252
+Nhập số điện thoại liên hệ của chủ xe mới và đọc lại một lần. Bản dựng đã
+
+61
+00:05:25,277 --> 00:05:30,192
+che toàn bộ tên, địa chỉ chi tiết, định danh và số liên hệ của người trong nguồn.
+
+62
+00:05:37,175 --> 00:05:40,845
+Đối chiếu nhãn hiệu và số loại xe với chứng nhận đăng ký.
+
+63
+00:05:40,870 --> 00:05:44,150
+Kiểm tra lại số máy và số khung do hệ thống lấy về.
+
+64
+00:05:44,825 --> 00:05:49,619
+Nhập năm sản xuất theo hồ sơ xe khi có yêu cầu. Với dung tích, công suất, trọng
+
+65
+00:05:49,644 --> 00:05:54,073
+tải hoặc số chỗ, chỉ khai dữ liệu phù hợp với xe và yêu cầu của biểu mẫu.
+
+66
+00:05:54,748 --> 00:05:59,117
+Nếu thiếu dữ liệu cho một trường bắt buộc, liên hệ nơi tiếp nhận để được
+
+67
+00:05:59,142 --> 00:06:03,571
+hướng dẫn. Không điền một con số tùy ý chỉ để chuyển sang bước tiếp theo.
+
+68
+00:06:10,550 --> 00:06:14,674
+Chọn hình thức nhận kết quả phù hợp với nhu cầu và dịch vụ đang được
+
+69
+00:06:14,699 --> 00:06:19,616
+cung cấp. Trong bản quay, người dùng chọn đến cơ quan giải quyết để nhận kết quả.
+
+70
+00:06:20,291 --> 00:06:24,902
+Nếu chọn bưu chính, nhập chính xác người nhận, số điện thoại và địa chỉ theo
+
+71
+00:06:24,927 --> 00:06:29,599
+yêu cầu. Với chứng nhận điện tử, theo dõi kênh trả kết quả mà cổng thông báo.
+
+72
+00:06:30,274 --> 00:06:33,794
+Kiểm tra lựa chọn rồi chọn Đồng ý và tiếp tục. Chi phí bưu
+
+73
+00:06:33,819 --> 00:06:37,583
+chính, nếu sử dụng, là khoản riêng với lệ phí thủ tục thu hồi.
+
+74
+00:06:44,592 --> 00:06:48,962
+Đính kèm giấy khai thu hồi, giấy tờ và chứng từ thuộc trường hợp của bạn
+
+75
+00:06:48,987 --> 00:06:53,052
+theo yêu cầu hiện hành của cổng. Tệp phải rõ, đủ trang và đọc được.
+
+76
+00:06:53,727 --> 00:06:57,914
+Bản quay còn hiển thị tên mẫu theo văn bản cũ. Bạn dùng mẫu hiện hành
+
+77
+00:06:57,939 --> 00:07:02,005
+do cổng cung cấp, không lấy mẫu cũ chỉ vì nó xuất hiện trong video.
+
+78
+00:07:02,680 --> 00:07:07,534
+Kiểm tra giới hạn dung lượng và kết quả tải từng tệp. Các ô tải trong nguồn chưa
+
+79
+00:07:07,559 --> 00:07:12,109
+chứng minh hồ sơ đã đủ; chỉ chuyển bước khi đã kiểm tra thành phần cần nộp.
+
+80
+00:07:19,092 --> 00:07:22,977
+Ở màn hình kiểm tra, đọc lại thông tin chủ xe, người nhận chuyển
+
+81
+00:07:23,002 --> 00:07:26,582
+quyền và cơ quan tiếp nhận. Sửa ngay nếu có mục không khớp.
+
+82
+00:07:27,257 --> 00:07:30,732
+Đối chiếu biển số, số máy, số khung và lý do thu hồi.
+
+83
+00:07:30,757 --> 00:07:34,232
+Kiểm tra cả các dữ liệu được lấy tự động từ hệ thống.
+
+84
+00:07:34,907 --> 00:07:39,338
+Kiểm tra tệp đính kèm và cách nhận kết quả. Việc biểu mẫu cho chuyển bước
+
+85
+00:07:39,363 --> 00:07:43,367
+không thay thế trách nhiệm kiểm tra tính đầy đủ, hợp lệ của hồ sơ.
+
+86
+00:07:50,342 --> 00:07:53,849
+Nhập đúng mã xác nhận mới đang hiển thị trên màn hình.
+
+87
+00:07:53,874 --> 00:07:57,317
+Nếu mã khó đọc hoặc đã đổi, lấy mã khác rồi nhập lại.
+
+88
+00:07:57,992 --> 00:08:01,940
+Đọc nội dung cam kết chịu trách nhiệm trước pháp luật và đánh dấu
+
+89
+00:08:01,965 --> 00:08:05,179
+sau khi đã kiểm tra thông tin. Sau đó chọn Nộp hồ sơ.
+
+90
+00:08:05,854 --> 00:08:10,345
+Chờ cổng phản hồi, tránh bấm liên tục gây nộp trùng. Thủ tục thu hồi không
+
+91
+00:08:10,370 --> 00:08:14,496
+thu lệ phí; dịch vụ bưu chính hoặc khoản khác nếu có phải xem riêng.
+
+92
+00:08:21,508 --> 00:08:26,362
+Sau khi gửi, bản quay hiển thị số hồ sơ và tài khoản, cùng nút Chi tiết hồ sơ và
+
+93
+00:08:26,387 --> 00:08:31,362
+In phiếu tiếp nhận. Hãy lưu thông tin này để tra cứu; bản dựng đã che các mã thật.
+
+94
+00:08:32,037 --> 00:08:36,587
+Mở mục theo dõi hồ sơ để xem trạng thái, lịch hẹn hoặc yêu cầu bổ sung. Nếu
+
+95
+00:08:36,612 --> 00:08:41,467
+chưa thấy mã hay thông báo, kiểm tra lại trước khi gửi thêm một hồ sơ giống hệt.
+
+96
+00:08:42,142 --> 00:08:46,875
+Màn hình này xác nhận đã có thông tin hồ sơ trên cổng, chưa chứng minh đã được
+
+97
+00:08:46,900 --> 00:08:51,511
+cấp chứng nhận thu hồi. Tiếp tục nộp giấy tờ và nhận kết quả theo hướng dẫn.
+
+98
+00:08:58,508 --> 00:09:03,361
+Với chuyển quyền sở hữu, nộp hồ sơ thu hồi theo hướng dẫn của cơ quan tiếp nhận,
+
+99
+00:09:03,386 --> 00:09:08,665
+gồm giấy khai, giấy tờ chủ xe, chứng từ chuyển quyền và đăng ký, biển số theo quy định.
+
+100
+00:09:09,340 --> 00:09:13,661
+Hai bản chà số máy, số khung được miễn khi thu hồi trên môi trường điện
+
+101
+00:09:13,686 --> 00:09:17,211
+tử, cấp chứng nhận điện tử và cơ quan đã có dữ liệu số hóa
+
+102
+00:09:17,236 --> 00:09:21,618
+đủ điều kiện đối chiếu, xác thực. Nếu chưa đáp ứng, vẫn phải có bản chà.
+
+103
+00:09:22,293 --> 00:09:27,341
+Theo sửa đổi năm hai nghìn không trăm hai mươi sáu, trong thời gian chờ kết quả chủ
+
+104
+00:09:27,366 --> 00:09:31,864
+xe được giữ lại biển số để sử dụng và phải nộp lại khi nhận chứng nhận thu
+
+105
+00:09:31,889 --> 00:09:36,753
+hồi. Không nộp biển thì kết quả bị hủy và phải làm lại theo trường hợp mất biển.
+
+106
+00:09:43,758 --> 00:09:48,381
+Với thủ tục trực tuyến một phần trong ví dụ, thời hạn cấp chứng nhận thu hồi
+
+107
+00:09:48,406 --> 00:09:52,722
+không quá hai ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. Trường hợp
+
+108
+00:09:52,747 --> 00:09:57,370
+toàn trình đủ điều kiện có thời hạn khác, không áp dụng chung cho mọi lý do.
+
+109
+00:09:58,045 --> 00:10:02,837
+Nhận chứng nhận thu hồi theo hình thức đã đăng ký và hướng dẫn của cơ quan giải
+
+110
+00:10:02,862 --> 00:10:07,959
+quyết. Kiểm tra nội dung kết quả, lưu bản giấy hoặc dữ liệu điện tử được cấp hợp lệ.
+
+111
+00:10:08,634 --> 00:10:12,708
+Sau thu hồi, bên nhận chuyển quyền sở hữu tiếp tục làm thủ tục đăng
+
+112
+00:10:12,733 --> 00:10:17,235
+ký sang tên. Hướng dẫn này giữ nguyên hình ảnh nguồn và đối chiếu quy định
+
+113
+00:10:17,260 --> 00:10:21,579
+đến ngày hai mươi mốt tháng mười năm hai nghìn không trăm hai mươi sáu.
