@@ -1,0 +1,802 @@
+[
+  {
+    "index": 1,
+    "title": "Thịt viên gạo nếp",
+    "duration": 50.766666666666666,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "01-thit-vien-gao-nep.mp4",
+    "size_bytes": 9426353,
+    "sha256": "9470e0f2e01cd499d66be51a9ab224499702772dda981ffb18f888e102fef710"
+  },
+  {
+    "index": 2,
+    "title": "Sườn kho",
+    "duration": 44.86666666666667,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "02-suon-kho.mp4",
+    "size_bytes": 11162960,
+    "sha256": "1429b2c7f4d3bf56c728d9c3a4b656b7e18e593097e0806c6a69164d14b684d4"
+  },
+  {
+    "index": 3,
+    "title": "Trứng hấp thịt băm",
+    "duration": 34.06666666666667,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "03-trung-hap-thit-bam.mp4",
+    "size_bytes": 9377550,
+    "sha256": "766cefe57108eeeda4ecf63a3a13bf06359d98e90dffc5d066d0661849ed4c9d"
+  },
+  {
+    "index": 4,
+    "title": "Cánh gà om Coca",
+    "duration": 49.266666666666666,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "04-canh-ga-om-coca.mp4",
+    "size_bytes": 26085603,
+    "sha256": "f038c8070c15d1c9739b7a2318ad3cb426469169371e2630986175f08829aea0"
+  },
+  {
+    "index": 5,
+    "title": "Gân bò hầm cà chua khoai tây",
+    "duration": 39.63333333333333,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "05-gan-bo-ham-ca-chua-khoai-tay.mp4",
+    "size_bytes": 20764744,
+    "sha256": "54b681011775f023d9ee25f43d2e58526ea20f01082fa3e3cbb44026d45f33c7"
+  },
+  {
+    "index": 6,
+    "title": "Ba chỉ xào hồi nồi",
+    "duration": 47.733333333333334,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "06-ba-chi-xao-hoi-noi.mp4",
+    "size_bytes": 34475461,
+    "sha256": "b26e52b97edde4145e522e23f07a7797958f8b857694b1115f504413b052414f"
+  },
+  {
+    "index": 7,
+    "title": "Cà tím nhồi thịt om",
+    "duration": 42.03333333333333,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "07-ca-tim-nhoi-thit-om.mp4",
+    "size_bytes": 23627438,
+    "sha256": "a1898c0869973409b9be76346de490f63b5cdde048da21c9a14d87c52d20b076"
+  },
+  {
+    "index": 8,
+    "title": "Trứng nấu kiểu đặc biệt",
+    "duration": 40.733333333333334,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "08-trung-nau-kieu-dac-biet.mp4",
+    "size_bytes": 39684671,
+    "sha256": "5fef6a031238c3f0581218de98ce40b6fbff804b89edb8f34ef1515e9f32c7f9"
+  },
+  {
+    "index": 9,
+    "title": "Thăn heo sốt chua ngọt",
+    "duration": 63.06666666666667,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "09-than-heo-sot-chua-ngot.mp4",
+    "size_bytes": 15752043,
+    "sha256": "55338a1d590007bb7040a9e38f70b9cc6970e7616e7bc49666b83d219d9f77e2"
+  },
+  {
+    "index": 10,
+    "title": "Đậu phụ hấp sốt thịt băm",
+    "duration": 57.6,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "10-dau-phu-hap-sot-thit-bam.mp4",
+    "size_bytes": 34353374,
+    "sha256": "20b056617220d09be57ae0cb2f05287d82b2d9b7eee13f30b786af5979858c45"
+  },
+  {
+    "index": 11,
+    "title": "Thạch trái cây",
+    "duration": 36.5,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "11-thach-trai-cay.mp4",
+    "size_bytes": 6867611,
+    "sha256": "dedfaa900cf2d90f1d9c6fb04d21d2d3d7a86ac0ed42ba497e9f75f0b831eed9"
+  },
+  {
+    "index": 12,
+    "title": "Cuốn đậu phụ nhân thịt",
+    "duration": 55.86666666666667,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "12-cuon-dau-phu-nhan-thit.mp4",
+    "size_bytes": 10237911,
+    "sha256": "863f9c7b4eb74f1e514da74c9ce43a14941be0e6e545b20d93b0e41d8de7468f"
+  },
+  {
+    "index": 13,
+    "title": "Thịt xá xíu",
+    "duration": 52.9,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "13-thit-xa-xiu.mp4",
+    "size_bytes": 35373225,
+    "sha256": "432c6b713b3f3c8383b88c2d717423cbb9b7d251df0c405ecef3cdba471c15ef"
+  },
+  {
+    "index": 14,
+    "title": "Váng đậu trộn chua cay",
+    "duration": 24.8,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "14-vang-dau-tron-chua-cay.mp4",
+    "size_bytes": 16254694,
+    "sha256": "f173cfb870779c8538a30868c94bd255db7e696c21817636944a3ac97afd10be"
+  },
+  {
+    "index": 15,
+    "title": "Đậu phụ om sốt",
+    "duration": 46.699999999999996,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "15-dau-phu-om-sot.mp4",
+    "size_bytes": 26002038,
+    "sha256": "0516a7460c64c7eaccc2d53b4f564262e22e81affe870f72577b16852b7546c3"
+  },
+  {
+    "index": 16,
+    "title": "Tôm luộc sốt chanh",
+    "duration": 26.933333333333334,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "16-tom-luoc-sot-chanh.mp4",
+    "size_bytes": 21382390,
+    "sha256": "617deb285802954bd7cf8218c99f8a8ad1962fa78c0bccd3e3a7dfabd832f027"
+  },
+  {
+    "index": 17,
+    "title": "Trứng cuộn xúc xích",
+    "duration": 59.0,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "17-trung-cuon-xuc-xich.mp4",
+    "size_bytes": 31715069,
+    "sha256": "4a7cd42293c4268ab9515ab55ea9d29a414f821339a16e4e725ff4602de2f49a"
+  },
+  {
+    "index": 18,
+    "title": "Pha nước lẩu tại nhà",
+    "duration": 47.833333333333336,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "18-pha-nuoc-lau-tai-nha.mp4",
+    "size_bytes": 27874508,
+    "sha256": "1b431e1739d0519ca90f381599ec611b56c66ddfeedfc01829fbd4c1f9cd9421"
+  },
+  {
+    "index": 19,
+    "title": "Cà tím nhồi thịt áp chảo",
+    "duration": 40.1,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "19-ca-tim-nhoi-thit-ap-chao.mp4",
+    "size_bytes": 37265316,
+    "sha256": "ea7d6844f1304cf3d365f71ac2ec4b738cc451fbc2a4d76f7a170a4176faa766"
+  },
+  {
+    "index": 20,
+    "title": "Rượu lựu",
+    "duration": 55.96,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "20-ruou-luu.mp4",
+    "size_bytes": 39422405,
+    "sha256": "bf2298932cbe612bf37efd250923f907ffa84ea3c14a66924b452ff413aaffee"
+  },
+  {
+    "index": 21,
+    "title": "Gà om rau củ",
+    "duration": 45.54,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "21-ga-om-rau-cu.mp4",
+    "size_bytes": 48606434,
+    "sha256": "e48402bffd0c1c9b8bc99c68f1bbd71cabdf60260f7e08ecbb4dcba84a0c2d2c"
+  },
+  {
+    "index": 22,
+    "title": "Trứng ngâm bia",
+    "duration": 67.7,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "22-trung-ngam-bia.mp4",
+    "size_bytes": 13048868,
+    "sha256": "cbfe4087cc15bc3e40b929b4674fac7af5f0f85937b38110a2e2b34aa6044fd6"
+  },
+  {
+    "index": 23,
+    "title": "Sườn kho bia",
+    "duration": 28.8,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "23-suon-kho-bia.mp4",
+    "size_bytes": 19385414,
+    "sha256": "eb009a053a41a50310e18bde8a259b51fbd43ad3cd872a9066bd680eec8eec50"
+  },
+  {
+    "index": 24,
+    "title": "Trứng ngâm bia kiểu đặc biệt",
+    "duration": 32.4,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": true,
+    "filename": "24-trung-ngam-bia-kieu-dac-biet.mp4",
+    "size_bytes": 15174705,
+    "sha256": "7561133ee57aaf4dc83ea785edaa1b8da9311fa9ec7b063ff32252bebbbcc99b"
+  },
+  {
+    "index": 25,
+    "title": "Trứng cút ngâm",
+    "duration": 65.46666666666667,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "25-trung-cut-ngam.mp4",
+    "size_bytes": 11038727,
+    "sha256": "59a9f948410996927b8849a505b38080655c6a32b2a5576e15ec107fafd6e263"
+  },
+  {
+    "index": 26,
+    "title": "Trứng bắc thảo kiểu Coca",
+    "duration": 94.16666666666667,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "26-trung-bac-thao-kieu-coca.mp4",
+    "size_bytes": 16696005,
+    "sha256": "7c9f839685a86b6256fc0c940e8f24c53bc0128cd7f2fa1fbbe11a7425adb3b0"
+  },
+  {
+    "index": 27,
+    "title": "Gà om nồi cơm điện",
+    "duration": 47.8,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "27-ga-om-noi-com-dien.mp4",
+    "size_bytes": 26155327,
+    "sha256": "9501cac8232a5d1a5c1fe64e2188ee601be59523c2d404f37cd31f5907c0fb13"
+  },
+  {
+    "index": 28,
+    "title": "Cuốn củ cải nhân thịt",
+    "duration": 36.266666666666666,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "28-cuon-cu-cai-nhan-thit.mp4",
+    "size_bytes": 19845233,
+    "sha256": "50f688a30fccab4aab5c29ca521d653c55f7021bd237a1161dabefec197f9846"
+  },
+  {
+    "index": 29,
+    "title": "Đậu phụ nhồi thịt",
+    "duration": 52.166666666666664,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "29-dau-phu-nhoi-thit.mp4",
+    "size_bytes": 31932835,
+    "sha256": "45737648d07b8cb327df11132cd39f01bf608d8d0bbd2cc4b2857e14d0a573b1"
+  },
+  {
+    "index": 30,
+    "title": "Gà xé trộn muối",
+    "duration": 36.63333333333333,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "30-ga-xe-tron-muoi.mp4",
+    "size_bytes": 24691884,
+    "sha256": "bf5fdf53b1afa0b0d4c0112830a54e8f685dbccefaafc1bf284e16b774e36620"
+  },
+  {
+    "index": 31,
+    "title": "Gan heo trộn sốt",
+    "duration": 78.33333333333333,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "31-gan-heo-tron-sot.mp4",
+    "size_bytes": 18947028,
+    "sha256": "5223500a0f3b4e2c197ec71035b7f6f4b9b957411992ae06d21ed76b8bee78bb"
+  },
+  {
+    "index": 32,
+    "title": "Chân gà ngâm",
+    "duration": 39.36666666666667,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "32-chan-ga-ngam.mp4",
+    "size_bytes": 22990357,
+    "sha256": "127e8e7a17a6fac7d5983bf1ae20ff66265e8aa247f33346a31d8148d7b20c5f"
+  },
+  {
+    "index": 33,
+    "title": "Gà xé chua cay",
+    "duration": 36.4,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "33-ga-xe-chua-cay.mp4",
+    "size_bytes": 28167862,
+    "sha256": "e426414b5be9d2d9346ee94cb405dd25248b1ac44aaea1b27f24755669cd1b29"
+  },
+  {
+    "index": 34,
+    "title": "Chân gà ngâm chua ngọt",
+    "duration": 55.4,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": true,
+    "filename": "34-chan-ga-ngam-chua-ngot.mp4",
+    "size_bytes": 42280754,
+    "sha256": "6d46b7d2748e2ebe6c494a1ce1e458f57e0d1eefe4276508c4994dde5adbe2ed"
+  },
+  {
+    "index": 35,
+    "title": "Bánh cà rốt chiên mè",
+    "duration": 37.46666666666667,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "35-banh-ca-rot-chien-me.mp4",
+    "size_bytes": 20080757,
+    "sha256": "de3c50fc877ab7f6955305c83c8cfa13f3cfc785611171ee7f5b2c5df1261569"
+  },
+  {
+    "index": 36,
+    "title": "Canh đậu phụ cà chua",
+    "duration": 42.166666666666664,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "36-canh-dau-phu-ca-chua.mp4",
+    "size_bytes": 25400921,
+    "sha256": "6c4f267a3f8055b390ae87b011bdadb7421607fae54040d25133db15db16f11c"
+  },
+  {
+    "index": 37,
+    "title": "Canh sườn rong biển",
+    "duration": 48.1,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "37-canh-suon-rong-bien.mp4",
+    "size_bytes": 41358147,
+    "sha256": "1c777153b24fff2ca1fd103c0abd1df6808c7a744410c3d281dd9714d8490466"
+  },
+  {
+    "index": 38,
+    "title": "Bánh chuối trứng",
+    "duration": 24.8,
+    "native_size": [
+      720,
+      1280
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "38-banh-chuoi-trung.mp4",
+    "size_bytes": 4788981,
+    "sha256": "538aacb70fb1e7f5f202499ad834cbddd91a7fc2f123661486cf1bdca95c3426"
+  },
+  {
+    "index": 39,
+    "title": "Ba chỉ chiên giòn",
+    "duration": 30.7,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "39-ba-chi-chien-gion.mp4",
+    "size_bytes": 16664851,
+    "sha256": "1b1b99615bc27d50782991b313954ea5674ffbe45d21507b8e07e6afb642c7af"
+  },
+  {
+    "index": 40,
+    "title": "Thịt heo xào gia vị",
+    "duration": 11.0,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "40-thit-heo-xao-gia-vi.mp4",
+    "size_bytes": 7420560,
+    "sha256": "22b614268878ccc99da9457c0f52420894458de8abde6a4372955a0ed5bf89be"
+  },
+  {
+    "index": 41,
+    "title": "Sườn cừu hầm",
+    "duration": 73.63333333333333,
+    "native_size": [
+      720,
+      1280
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "41-suon-cuu-ham.mp4",
+    "size_bytes": 20291282,
+    "sha256": "56cfaeb14589cfcb4f0e97f5f19a9745ef2f405dfaed941a58f7d92a7a485375"
+  },
+  {
+    "index": 42,
+    "title": "Mực xào cay",
+    "duration": 36.53333333333333,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "42-muc-xao-cay.mp4",
+    "size_bytes": 45302279,
+    "sha256": "0832cd0088f833c0387952051ff53957b78c84f2fbdc5f0ae82dcf8a8fb9ec75"
+  },
+  {
+    "index": 43,
+    "title": "Hải sản hấp",
+    "duration": 21.866666666666667,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "43-hai-san-hap.mp4",
+    "size_bytes": 12675169,
+    "sha256": "2f38f97be9cdd392ce9c4432bdcc46a91ae6d06bc41043889759379b22bfee82"
+  },
+  {
+    "index": 44,
+    "title": "Bò hầm khoai tây",
+    "duration": 64.23333333333333,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "44-bo-ham-khoai-tay.mp4",
+    "size_bytes": 41938780,
+    "sha256": "61d08c453d274d71dd315a9f6a8cf8414df0857cc1c387e31dd1e2e871a675f9"
+  },
+  {
+    "index": 45,
+    "title": "Ba chỉ chiên giòn tẩm vị",
+    "duration": 95.36666666666666,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "45-ba-chi-chien-gion-tam-vi.mp4",
+    "size_bytes": 22338430,
+    "sha256": "187102d7f796d0d7433c75e7c8c8c874bd3041f4323acc08fc06e58b66d042eb"
+  },
+  {
+    "index": 46,
+    "title": "Sò điệp xào rau củ",
+    "duration": 51.800000000000004,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "46-so-diep-xao-rau-cu.mp4",
+    "size_bytes": 42394387,
+    "sha256": "fb6caefc4559ab49a87573500a338bce8210699e63c0886633ce19f7e8b8c048"
+  },
+  {
+    "index": 47,
+    "title": "Cánh gà om hạt dẻ",
+    "duration": 34.733333333333334,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "47-canh-ga-om-hat-de.mp4",
+    "size_bytes": 23702980,
+    "sha256": "1015bab5370578e85af8ca1f137641c4963f00c85f1ce4bf5fdb4b10e9498074"
+  },
+  {
+    "index": 48,
+    "title": "Bò hầm ngũ vị",
+    "duration": 69.76666666666667,
+    "native_size": [
+      576,
+      1024
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "48-bo-ham-ngu-vi.mp4",
+    "size_bytes": 21105263,
+    "sha256": "b225ab970a369c63415c5a8c20e284c39fa6aab66158925d48127e26a98d5d23"
+  },
+  {
+    "index": 49,
+    "title": "Mướp hấp tôm",
+    "duration": 54.333333333333336,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "49-muop-hap-tom.mp4",
+    "size_bytes": 28751682,
+    "sha256": "c528d8508bd74915510aebff4e86a8f5ed06144e6d6d7523e6e752f75ce95fa8"
+  },
+  {
+    "index": 50,
+    "title": "Ớt chuông nhồi thịt",
+    "duration": 32.266666666666666,
+    "native_size": [
+      1080,
+      1920
+    ],
+    "audio_unchanged": true,
+    "decode_ok": true,
+    "resolution_preserved": true,
+    "faces_replaced": false,
+    "filename": "50-ot-chuong-nhoi-thit.mp4",
+    "size_bytes": 16176948,
+    "sha256": "d875b0d776a0d5ca5b44482af7ec6e65ed16902ca5ba2a004a73ccbe250f2ff8"
+  }
+]
